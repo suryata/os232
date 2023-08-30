@@ -2,14 +2,18 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # Logcode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 10 L03 GitHub Related
-L00 General, etc.
-L01 SCELE/Discord related
-L02 CLASSROOM/ZOOM meetings related
-L03 GitHub and git related, including commit, push, pull
-L04 GitHub Pages related
-L05 Quiz related including studying
-L06 References/Books/Documents/Browsing/GSGS related
-L07 Demo related
+ZCZC W00 20 L03 GitHub Related , including commit, push, pull
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 30 L01 SCELE/Discord related
+ZCZC W00 30 L87 Lunch
+ZCZC W00 20 L04 Github Pages Related
+ZCZC W00 60 L05 Studying for This Week Quiz
+ZCZC W00 100 L02 CLASSROOM related
+ZCZC W00 60 L06 Browsing/GSGS related
+ZCZC W00 60 L10 Assignment #00 Related
+ZCZC W00 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W00 50 L70 Studying for other courses
+ZCZC W00 40 L80 Waching: Netflix (Kaleidoscope)
+ZCZC W00 30 L88 Workout
 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
 
