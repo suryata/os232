@@ -2,15 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # Logcode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W01 70 L09 Weekly Assignments
-ZCZC W01 30 L88 Workout
-ZCZC W01 30 L06 Browsing/GSGS related
-ZCZC W01 60 L05 Studying for This Week Quiz
-ZCZC W01 120 L02 CLASSROOM/ZOOM meetings related
-ZCZC W01 10 L03 GitHub related
-ZCZC W01 40 L70 Studying for other courses
-ZCZC W01 30 L01 SCELE/Discord related
-ZCZC W01 10 L05 QUIZ
 ZCZC W00 25 L82 Reading Book (paper)
 ZCZC W00 20 L03 GitHub Related , including commit, push, pull
 ZCZC W00 20 L00 General, etc.
@@ -27,3 +18,15 @@ ZCZC W00 40 L80 Waching: Netflix (Kaleidoscope)
 ZCZC W00 30 L88 Workout
 ZCZC W00 35 L84 Resting
 ZCZC W00 10 L70 Studying statistics
+ZCZC W01 70 L09 Weekly Assignments
+ZCZC W01 30 L88 Workout
+ZCZC W01 30 L06 Browsing/GSGS related
+ZCZC W01 60 L05 Studying for This Week Quiz
+ZCZC W01 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 10 L03 GitHub related
+ZCZC W01 40 L70 Studying for other courses
+ZCZC W01 30 L01 SCELE/Discord related
+ZCZC W01 10 L05 QUIZ
+ZCZC W01 20 L88 Workout
+ZCZC W01 30 L06 Browsing/GSGS related
+ZCZC W01 30 L05 Studying for This Week Quiz
