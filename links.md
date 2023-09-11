@@ -8,3 +8,12 @@ permalink: LINKS/
 This video is easy to understand and give some brief history of operating systems.
 <br>
 <hr>
+* [Structures of Operating System](https://youtu.be/XXPBl20J22w?si=3Mi1kZKiL-oJfv3B) --- 
+This video is very good for beginner and give some information about structure of operating systems.
+<br>
+<hr>
+* [What is an Operating System (OS)?](https://youtu.be/RhHMgkUdhdk?si=j6Dl2OP-CkkiY2XB) --- 
+This video is very good for learning about foundation of operating systems.
+<br>
+<hr>
+
