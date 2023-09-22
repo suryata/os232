@@ -10,6 +10,10 @@ This video is easy to understand and give some brief history of operating system
 This video is very good for beginner and give some information about structure of operating systems.
 * [What is an Operating System (OS)?](https://youtu.be/RhHMgkUdhdk?si=j6Dl2OP-CkkiY2XB) --- 
 This video is very good for learning about foundation of operating systems.
+* [How Do Operating Systems Work?](https://youtu.be/GjNp0bBrjmU?si=fZMLSmfvqp2qvDc-) --- 
+Helpful video to tell us about how the os work 
+* [Operating System Generation and System Boot](https://youtu.be/wD0PrF3fGSY?si=wgEn382HKli4zeiC) --- 
+This video is teach us of what system boot is
 <br>
 <hr>
 
