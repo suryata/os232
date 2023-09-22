@@ -2,6 +2,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # Logcode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 30 L05 Studying for This Week Quiz
+ZCZC W03 60 L02 CLASSROOM related
+ZCZC W03 30 L06 Browsing/GSGS related
+ZCZC W03 40 L10 Assignment #03 Related
+ZCZC W03 30 L32 YouTube: watching OS related topics
+ZCZC W03 40 L70 Studying for other courses
 ZCZC W02 70 L09 Weekly Assignments
 ZCZC W02 20 L88 Workout
 ZCZC W02 30 L06 Browsing/GSGS related
