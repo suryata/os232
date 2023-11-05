@@ -20,5 +20,10 @@ Give me an information about what i/o structure in operating systems
 Give me an information about what operating system services is
 * [User Operating System Interface](https://youtu.be/psDpbWscPuE?si=Z3PV7WouEGPt2G-5) --- 
 Very good video for learning OS interfaces
+* [Process State](https://youtu.be/jZ_6PXoaoxo?si=Se3UbJpy9Jk0sOX6) --- 
+Great video for learning Process State in Operating System
+* [Process Control Block](https://youtu.be/4s2MKuVYKV8?si=jrMfNVjiTpAjoq5s) --- 
+Video for learning about Process Block in Operating System
+
 <hr>
 
