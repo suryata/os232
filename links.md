@@ -24,6 +24,13 @@ Very good video for learning OS interfaces
 Great video for learning Process State in Operating System
 * [Process Control Block](https://youtu.be/4s2MKuVYKV8?si=jrMfNVjiTpAjoq5s) --- 
 Video for learning about Process Block in Operating System
-
+* [Sockets in Operating System](https://youtu.be/uagKTbohimU?si=MtappAIVJAM3DEBL) --- 
+Give me an information about what Sockets in OS for
+* [Remote Procedure Calls](https://youtu.be/QmhTjsOOrlw?si=tTKNMBGRWFN3MDeQ) --- 
+Very good video for learning Remote Procedure Calls in OS 
+* [Introduction to Threads](https://youtu.be/LOfGJcVnvAk?si=ZCFRRxRb9o4jvaqC) --- 
+Great video for learning Threads in Operating System
+* [Scheduling Criteria](https://youtu.be/bWHFY8-rL5I?si=sYp1NJaNafkKv0-O) --- 
+Video for learning about Scheduling in Operating System
 <hr>
 
