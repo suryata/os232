@@ -39,6 +39,6 @@ Very good video for learning Multilevel Queue Scheduling Algorithm in OS
 * [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=XVBynEEd5pWx7MDR) --- 
 Great video for learning Process Synchronization in Operating System
 * [Test and Set Lock](https://youtu.be/5oZYS5dTrmk?si=PGOdl1f4KWZdFMzg) --- 
-Video for learning about Test and Set Lock in Operating System
+Video for us to learn about Test and Set Lock in Operating System
 <hr>
 
