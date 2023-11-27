@@ -40,5 +40,13 @@ Very good video for learning Multilevel Queue Scheduling Algorithm in OS
 Great video for learning Process Synchronization in Operating System
 * [Test and Set Lock](https://youtu.be/5oZYS5dTrmk?si=PGOdl1f4KWZdFMzg) --- 
 Video for us to learn about Test and Set Lock in Operating System
+* [Shared Memory Systems](https://youtu.be/4s2MKuVYKV8?si=jrMfNVjiTpAjoq5s) --- 
+Video for learning about Shared Memory Systems in Operating System
+* [Interprocess Communication](https://youtu.be/uagKTbohimU?si=MtappAIVJAM3DEBL) --- 
+Give me an information about what Interprocess Communication in OS for
+* [Peterson’s Solution](https://youtu.be/QmhTjsOOrlw?si=tTKNMBGRWFN3MDeQ) --- 
+Very good video for learning Peterson’s Solution in OS 
+* [Dining Philosophers Solution using Monitors](https://youtu.be/LOfGJcVnvAk?si=ZCFRRxRb9o4jvaqC) --- 
+Great video for learning Dining Philosophers Solution using Monitors in Operating System
 <hr>
 
