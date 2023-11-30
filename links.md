@@ -48,5 +48,13 @@ Give me an information about what Interprocess Communication in OS for
 Very good video for learning Peterson’s Solution in OS 
 * [Dining Philosophers Solution using Monitors](https://youtu.be/LOfGJcVnvAk?si=ZCFRRxRb9o4jvaqC) --- 
 Great video for learning Dining Philosophers Solution using Monitors in Operating System
+* [Operating System Services](https://youtu.be/TQWERtMoKbI?si=KbI0ghDnWD22Xrgi) --- 
+Give me an information about what operating system services is
+* [System Interface](https://youtu.be/psDpbWscPuE?si=Z3PV7WouEGPt2G-5) --- 
+Very good video for learning OS interfaces
+* [State](https://youtu.be/jZ_6PXoaoxo?si=Se3UbJpy9Jk0sOX6) --- 
+Great video for learning State in Operating System
+* [Process Control](https://youtu.be/4s2MKuVYKV8?si=jrMfNVjiTpAjoq5s) --- 
+Video for learning about Process in Operating System
 <hr>
 
